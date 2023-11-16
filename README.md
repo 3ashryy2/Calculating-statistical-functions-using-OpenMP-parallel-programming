@@ -6,3 +6,4 @@ Calculating statistical functions like mean, standard deviation and variance usi
 $ gcc -o omp_output -fopenmp Parallel_Stat.c
 $ export OMP_NUM_THREADS=4
 $ ./omp_output
+
